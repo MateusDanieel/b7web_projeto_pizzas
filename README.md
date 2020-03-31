@@ -1,1 +1,1 @@
-Projeto feito em aula no curso JavaScript Nível 1 da B7Web, com o professor Bonieky Lacerda.
+PARA UTILIZAR: abra o arquivo "index.html" no navegador de sua preferência.
